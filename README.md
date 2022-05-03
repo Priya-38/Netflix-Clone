@@ -1,4 +1,4 @@
-In this project, we're building a Netflix Clone using HTML, CSS and Javascript.
+## In this project, we're building a Netflix Clone using HTML, CSS and Javascript.
 
 
 ![Screenshot (359)](https://user-images.githubusercontent.com/95964414/165802132-0ca98962-7d19-4a39-a40e-902ecd556441.png)
